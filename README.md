@@ -1,16 +1,16 @@
-### Hi there 👋
+# hello, I'm Noemi 💖
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Secular+One&pause=1000&color=FFE1E1&width=435&lines=aspiring+Frontend+Developer+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<!--
-**noemirosario/noemirosario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 **My Technologies:**
+     - HTML
+     - CSS
+     - JavaScript
+     - Git
+     - .Net
+     - Java
+     - PHP
 
-Here are some ideas to get you started:
+- 🌸 **In constant learning. I live on joining technology courses**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- ![noemirosario GitHub stats](https://github-readme-stats.vercel.app/api?username=noemirosario&show_icons=true&theme=radical)-->
