@@ -13,4 +13,4 @@
 - 🌸 **In constant learning. I live on joining technology courses**
 
 
-<!-- ![noemirosario GitHub stats](https://github-readme-stats.vercel.app/api?username=noemirosario&show_icons=true&theme=radical)-->
+[![noemirosario GitHub stats](https://github-readme-stats.vercel.app/api?username=noemirosario&show_icons=true&theme=radical)
